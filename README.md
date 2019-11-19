@@ -18,5 +18,5 @@ Instead of using Peer to Peer communication your wallet client can read blockcha
 (source: https://coinguides.org/bitcoin-bootstrap-dat-source-usage/)
 
 # Can I trust this Bootstrap?
-Yes you can, the offical BitCanna Announcement was on xx/xx/xxxx on Twitter:
-* https://.......
+Yes you can, the offical BitCanna Announcement was on 19/11/2019 on Twitter:
+https://twitter.com/BitCannaGlobal/status/1196722164692594693
