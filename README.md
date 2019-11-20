@@ -5,14 +5,16 @@ It definitely is faster than downloading it from scratch.
 We will provide a new bootstrap every 4-6 weeks after the latest release! 
 
 # Instructions
-* 1.Download from github: https://github.com/BitCannaCommunity/Bootstrap/releases/download/bootstrap/bootstrap.zip
-* 2.Unzip
-* 3.Close your BitCanna node
-* 4.Copy the bootstrap.dat file in the `\user\AppData\Roaming\BCNA` folder,  NOT in the `\user\AppData\Roaming\BCNA\blocks` folder.
-   Windows: `C:/Users/YourUserName/Appdata/Roaming/BCNA`
-   MacOS: `/Users/YourUserName/Library/Application Support/BCNA`
-   Linux: `/home/YourUserName/.bitcanna`
-* 5.Run your BitCanna node again, it should start 'syncing from disk'
+1.Download from github: https://github.com/BitCannaCommunity/Bootstrap/releases/download/bootstrap/bootstrap.zip
+2.Unzip
+3.Close your BitCanna node
+4.Copy the bootstrap.dat file in the `\user\AppData\Roaming\BCNA` folder,  NOT in the `\user\AppData\Roaming\BCNA\blocks` folder.
+ | OS | Path |
+| ------------ | ------------- |
+| Windows: | `C:/Users/YourUserName/Appdata/Roaming/BCNA` |
+| MacOS: | `/Users/YourUserName/Library/Application Support/BCNA` |
+| Linux: | `/home/YourUserName/.bitcanna` |
+5.Run your BitCanna node again, it should start 'syncing from disk'
 
 # How it works? 
 Your wallet client downloads and verifies each block from the P2P network. This is usually slow and especially if you are using the wallet for the first time, then syncing process can take quite a long time.
