@@ -6,9 +6,13 @@ We will provide a new bootstrap every 4-6 weeks after the latest release!
 
 # Instructions
 1.Download from github: https://github.com/BitCannaCommunity/Bootstrap/releases/download/bootstrap/bootstrap.zip
+
 2.Unzip
+
 3.Close your BitCanna node
+
 4.Copy the bootstrap.dat file in the `\user\AppData\Roaming\BCNA` folder,  NOT in the `\user\AppData\Roaming\BCNA\blocks` folder.
+
 5.Run your BitCanna node again, it should start 'syncing from disk'
 
 | OS | Path |
